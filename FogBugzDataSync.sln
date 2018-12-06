@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FogBugzDataSync", "FogBugzDataSync\FogBugzDataSync.csproj", "{165B9F62-B450-456A-B0CC-1A28B92EA73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{279808C1-2EE1-4D23-AE6B-40BF97AA8A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{165B9F62-B450-456A-B0CC-1A28B92EA73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165B9F62-B450-456A-B0CC-1A28B92EA73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165B9F62-B450-456A-B0CC-1A28B92EA73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165B9F62-B450-456A-B0CC-1A28B92EA73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279808C1-2EE1-4D23-AE6B-40BF97AA8A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279808C1-2EE1-4D23-AE6B-40BF97AA8A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279808C1-2EE1-4D23-AE6B-40BF97AA8A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279808C1-2EE1-4D23-AE6B-40BF97AA8A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
